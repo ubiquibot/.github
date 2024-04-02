@@ -14,21 +14,19 @@
 - Language: TypeScript
 - External Integration: Github Action, Github API
 - Database: None
-- Main contributor: @pavlovcik
 
 
 ### 2. ubiquibot/permit-generation
 - Service: Permit Generation module
 - Purpuse: The purpose of this module is to isolate the bot's payment capabilities. This can be directly invoked from other plugins
 - Language: TypeScript
-- External Integration: ENS, ethers
+- External Integration: ENS
 - Database: Supabase
 - Main contributor: @Keyrxng, @pavlovcik
 
 ### 3. ubiquibot/assistive-pricing
 - Service: Assistive Pricing module
 - Purpose: **Don't know**
-- Language: Typescript
 - External Integration: 
 - Database: Supabase
 
