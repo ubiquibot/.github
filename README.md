@@ -96,6 +96,29 @@
 - Purpose: A user interface for https://github.com/ubiquity/devpool-directory/issues
 
 
+### 6. ubiquity/ubiquibot
+- Service: Ubiquibot
+- Purpose: Ubiquity DAO's GitHub Bot for Automating DevPool Management.
+  - Main repo for the bot development.
+- Database: Supabase
+- 
+
+### 7. ubiquity/ts-template
+- Purpose: A template repository for all @ubiquity projects.
+- Language: Typescript
+
+### 8. ubiquity/rpc-handler
+- Purpose: RPC Handler NPM Package
+
+
+### 9. ubiquity/onboard.ubq.fi
+- Purpose: Generates the configuration for organizations, by creating a default configuration and creating a repository under the given Organization.
+
+
+### 10. ubiquity/ubiquibot-kernel
+- Purpose: Interface with plugins (GitHub Actions) for longer running processes. Run on Cloudflare Workers.
+- Infrastructure: Cloudflare Workers
+
 
 WIP
 
