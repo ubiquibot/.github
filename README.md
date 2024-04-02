@@ -1,5 +1,5 @@
 
-## Repositories: 
+# Repositories: 
 - Service
 - Purpose
 - Language
@@ -7,6 +7,8 @@
 - Database
 - Infrastructure
 - Main contributor
+
+## org: ubiquibot
 
 ### 1. ubiquibot/conversation-rewards
 - Service: Conversation Reward Module
@@ -62,7 +64,21 @@
 - Language: Typescript
 - External Integration: 
 - Database: None
-- Main Contributor: @pavlovcik
+
+## org: ubiquity
+
+### 1. ubiquity/devpool-directory
+- Service: DevPool - Bounties Directory
+- Purpose: DevPool open bounties. Subscribe to notifications to see new available bounties.
+- Database: None (TODO: post to database)
+- External Integration: 
+
+
+### 2. ubiquity/pay.ubq.fi
+- Service: Generate and claim spender permits (EIP-2612)
+- Purpose: Tool for generating offline permits for bounty hunters to withdraw their payments.
+
+
 
 WIP
 
