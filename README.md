@@ -52,21 +52,32 @@
 - Purpose: Use this for end-to-end tests.
 @pavlovcik How does it work?
 
-### 6. WIP
+### 6. ubiquibot/sandbox
+- Serivce: Sandbox Environment
+- Purpose: This is a sandbox environment for new users to try out the bot.
+  - Try setting one Priority and one Time label to see the assistive pricing capabilities.
+  - Try the bot commands as a comment in an issue.
+
+### 7. ubiquibot/production
+- Service: Production Environment
+- Purpose: ubiquibot production environment
+- Language: Typescript
+- External Integration: 
+- Database: None
+- Main Contributor: @pavlovcik
+
+WIP
 
 ```
-## Services: 
+Services: 
 - Any internal or external services your system interacts with.
 
-
-## Databases: 
+Databases: 
 - The types of databases used and their relationships to other components.
 
-
-## External Integrations: 
+External Integrations: 
 - Third-party services or APIs your system relies on.
 
-
-## Infrastructure: 
+Infrastructure: 
 - The underlying infrastructure, such as cloud services, container orchestration (e.g., Kubernetes), and network architecture.
 ```
