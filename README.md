@@ -79,6 +79,23 @@
 - Purpose: Tool for generating offline permits for bounty hunters to withdraw their payments.
 
 
+### 3. ubiquity/ubiquity-dollar
+- Service: Ubiquity Dollar (uAD) smart contracts and user interface.
+- Purpose: Introducing the flagship product of Ubiquity DAO. The Ubiquity Dollar (uAD) is a collateralized stablecoin.
+- Language: Typescript, Solidity
+- External Integration: Ethereum
+
+### 4. ubiquity/cloudflare-deploy-action
+- Service: Cloudflare deploy action
+- Purpose: A reusable, and automatic Cloudflare deploy for instant previews across @ubiquity repositories.
+- Language: TypeScript
+- External Integration: Github Action
+
+### 5. ubiquity/work.ubq.fi
+- Service: User interface
+- Purpose: A user interface for https://github.com/ubiquity/devpool-directory/issues
+
+
 
 WIP
 
