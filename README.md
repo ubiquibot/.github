@@ -27,7 +27,6 @@
 ### 3. ubiquibot/assistive-pricing
 - Service: Assistive Pricing module
 - Purpose: **Don't know**
-- Language: Typescript
 - External Integration: 
 - Database: Supabase
 
