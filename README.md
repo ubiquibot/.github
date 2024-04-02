@@ -14,7 +14,6 @@
 - Language: TypeScript
 - External Integration: Github Action, Github API
 - Database: None
-- Main contributor: @pavlovcik
 
 
 ### 2. ubiquibot/permit-generation
