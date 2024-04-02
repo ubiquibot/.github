@@ -20,7 +20,7 @@
 - Service: Permit Generation module
 - Purpuse: The purpose of this module is to isolate the bot's payment capabilities. This can be directly invoked from other plugins
 - Language: TypeScript
-- External Integration: ENS, ethers
+- External Integration: ENS
 - Database: Supabase
 - Main contributor: @Keyrxng, @pavlovcik
 
