@@ -33,6 +33,9 @@
 - Database: Supabase
 
 ### 4. ubiquibot/comment-incentives
+
+**Deprecated in favor of @ubiquibot/conversation-rewards**
+
 - Service: Comment Incentives module
 - Purpose: Split reward to the collaborators who wrote some comments
 - Language: Typescript
