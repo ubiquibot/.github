@@ -97,6 +97,7 @@
 ### 5. ubiquity/work.ubq.fi
 - Service: User interface
 - Purpose: A user interface for https://github.com/ubiquity/devpool-directory/issues
+- External Integration: cloudflare
 
 
 ### 6. ubiquity/ubiquibot
@@ -104,14 +105,16 @@
 - Purpose: Ubiquity DAO's GitHub Bot for Automating DevPool Management.
   - Main repo for the bot development.
 - Database: Supabase
-- 
 
 ### 7. ubiquity/ts-template
 - Purpose: A template repository for all @ubiquity projects.
 - Language: Typescript
 
 ### 8. ubiquity/rpc-handler
-- Purpose: RPC Handler NPM Package
+- Service: RPC Handler NPM Package
+- Purpose: This packages leverages Chainlist's network RPC list to return the lowest latency provider from the list for any given network ID.
+
+
 
 
 ### 9. ubiquity/onboard.ubq.fi
@@ -121,20 +124,3 @@
 ### 10. ubiquity/ubiquibot-kernel
 - Purpose: Interface with plugins (GitHub Actions) for longer running processes. Run on Cloudflare Workers.
 - Infrastructure: Cloudflare Workers
-
-
-WIP
-
-```
-Services: 
-- Any internal or external services your system interacts with.
-
-Databases: 
-- The types of databases used and their relationships to other components.
-
-External Integrations: 
-- Third-party services or APIs your system relies on.
-
-Infrastructure: 
-- The underlying infrastructure, such as cloud services, container orchestration (e.g., Kubernetes), and network architecture.
-```
