@@ -6,7 +6,7 @@
 - External Integration
 - Database
 - Infrastructure
-- Main contributor
+
 
 ## org: ubiquibot
 
@@ -24,7 +24,6 @@
 - Language: TypeScript
 - External Integration: ENS
 - Database: Supabase
-- Main contributor: @Keyrxng, @pavlovcik
 
 ### 3. ubiquibot/assistive-pricing
 - Service: Assistive Pricing module
@@ -67,6 +66,7 @@
 - Language: Typescript
 - External Integration: 
 - Database: None
+
 
 ## org: ubiquity
 
@@ -113,8 +113,6 @@
 ### 8. ubiquity/rpc-handler
 - Service: RPC Handler NPM Package
 - Purpose: This packages leverages Chainlist's network RPC list to return the lowest latency provider from the list for any given network ID.
-
-
 
 
 ### 9. ubiquity/onboard.ubq.fi
