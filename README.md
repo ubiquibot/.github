@@ -42,7 +42,7 @@
 - Database: None (Supabase, TODO: get the assignee multiplier from the database)
 
 ### 5. ubiquibot/plugins-wishlist
-- Serivce: not a service
+- Service: not a service
 - Purpose: Wishlist of the future plugins
 
 ### 6. ubiquibot/configuration
