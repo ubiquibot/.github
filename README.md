@@ -50,9 +50,9 @@
 - Purpose: Helpers to parse and merge configuration files for Ubiquibot.
 
 ### 5. ubiquibot/e2e-tests
+**deprecated**
 - Service: not a service
 - Purpose: Use this for end-to-end tests.
-Currently, not using it.
 
 ### 6. ubiquibot/sandbox
 - Service: Sandbox Environment
@@ -123,3 +123,8 @@ Currently, not using it.
 ### 10. ubiquity/ubiquibot-kernel
 - Purpose: Interface with plugins (GitHub Actions) for longer running processes. Run on Cloudflare Workers.
 - Infrastructure: Cloudflare Workers
+- Database: Cloudflare KV
+
+### 11. ubiquity/ubiquibot-telegram 
+- Purpose: This project allows you to deploy a TelegramXChatGPT auto bounty issue creator using Cloudflare Workers and wrangler.
+- Database: Supabase
