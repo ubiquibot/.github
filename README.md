@@ -73,7 +73,7 @@
 ### 1. ubiquity/devpool-directory
 - Service: DevPool - Bounties Directory
 - Purpose: DevPool open bounties. Subscribe to notifications to see new available bounties.
-- Database: None (TODO: post to database)
+- Database: None
 - External Integration: 
 
 
