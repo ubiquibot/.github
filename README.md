@@ -119,12 +119,15 @@
 ### 9. ubiquity/onboard.ubq.fi
 - Purpose: Generates the configuration for organizations, by creating a default configuration and creating a repository under the given Organization.
 
+### 10. ubiquity/audit.ubq.fi 
+- Purpose: 
 
-### 10. ubiquity/ubiquibot-kernel
+
+### 11. ubiquity/ubiquibot-kernel
 - Purpose: Interface with plugins (GitHub Actions) for longer running processes. Run on Cloudflare Workers.
 - Infrastructure: Cloudflare Workers
 - Database: Cloudflare KV
 
-### 11. ubiquity/ubiquibot-telegram 
+### 12. ubiquity/ubiquibot-telegram 
 - Purpose: This project allows you to deploy a TelegramXChatGPT auto bounty issue creator using Cloudflare Workers and wrangler.
 - Database: Supabase
