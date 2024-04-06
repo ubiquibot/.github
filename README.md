@@ -27,7 +27,7 @@
 
 ### 3. ubiquibot/assistive-pricing
 - Service: Assistive Pricing module
-- Purpose: **Don't know**
+- Purpose: Assistive pricing is essential for product owners and other managers to instantly set a price for any task. In the current implementation, it is a simple, but fully configurable lookup table between the Priority level and the Time estimate. It also allows for projects to set a “base rate” so that specific projects can have a configurable multiplier to reflect its importance to the organization’s overarching strategic objectives. 
 - External Integration: 
 - Database: Supabase
 
@@ -52,7 +52,7 @@
 ### 5. ubiquibot/e2e-tests
 - Service: not a service
 - Purpose: Use this for end-to-end tests.
-@pavlovcik How does it work?
+Currently, not using it.
 
 ### 6. ubiquibot/sandbox
 - Service: Sandbox Environment
@@ -101,6 +101,7 @@
 
 
 ### 6. ubiquity/ubiquibot
+**Will be deprecated soon**
 - Service: Ubiquibot
 - Purpose: Ubiquity DAO's GitHub Bot for Automating DevPool Management.
   - Main repo for the bot development.
